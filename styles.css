@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://giffiles.alphacoders.com/209/209159.gif);
+    background-color: black;
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+   }
+
+   .text {
+       color: grey;
+   }
+   .text:hover {
+       color: antiquewhite;
+       transition: 0.6s;
+   }
